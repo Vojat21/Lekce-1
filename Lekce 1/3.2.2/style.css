@@ -1,0 +1,34 @@
+p {
+    color: rgb(39, 89, 182);
+    font-size: 20px;
+    text-align: center;
+    
+}
+h1, h2 {
+    color: black
+}
+body {
+    background-color: lightseagreen;
+}
+div {
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px  
+    
+}
+.info {
+    text-align: left
+}
+.warning {
+    color: red;
+    font-size: xx-large;
+    background-color: Black;
+    border-radius: 15px;
+    padding: 20px
+
+   
+}
+p:last-child {
+    color: red;
+}
