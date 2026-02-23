@@ -17,3 +17,9 @@ body {
     color: black;
     font-size: 22px
 }
+
+.krabicka a:hover {
+    transform: scale(1.1)
+    
+
+}
