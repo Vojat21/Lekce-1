@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: serif;
+
+}
+.krabicka {
+    background-color: #f3e6a0;
+    width: 250px;
+    margin: 40px auto;
+
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.krabicka a {
+    display: block;
+    color: black;
+    font-size: 22px
+}
