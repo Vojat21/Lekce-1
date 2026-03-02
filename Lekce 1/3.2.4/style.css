@@ -25,3 +25,12 @@ a, button, strong {
     height: 80px
 }
 
+.d2 {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
+    padding: 16px;
+    text-align: center;
+    line-height: 170px;
+}
