@@ -1,0 +1,27 @@
+h2 {
+    background: blue;
+}
+div {
+    background-color: blue;
+}
+p {
+    background: blue;
+}
+ul {
+    background: blue;
+}
+
+a, button, strong {
+    background: red
+}
+
+.d1 {
+    border: 2px solid black;
+    background: rgb(146,146,188);
+}
+.b1 {
+    background: green;
+    width: 180px;
+    height: 80px
+}
+
